@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestDebugs</string>
+    <string name="text">ax^2+bx+c=0</string>
+</resources>
